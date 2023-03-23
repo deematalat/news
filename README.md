@@ -7,7 +7,7 @@ Here's how to use the app:
 1.Clone the repository from GitHub or download the source code.
 2.Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code).
 3.Run the app on an emulator or physical device.
-
+<img src="assets/images/newsfram.png" alt="newa app" title="Optional title">
 #  features
  The app has the following features:
 
